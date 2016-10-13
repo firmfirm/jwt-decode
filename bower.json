@@ -1,7 +1,7 @@
 {
   "name": "jwt-decode",
   "description": "Decode JWT payload in the browser",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "keywords": [
     "jwt",
     "jsonwebtoken",
