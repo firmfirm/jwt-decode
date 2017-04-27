@@ -1,20 +1,12 @@
 {
   "name": "jwt-decode",
   "description": "Decode JWT payload in the browser",
-  "version": "2.1.2",
-  "keywords": [
-    "jwt",
-    "jsonwebtoken",
-    "token",
-    "decode"
-  ],
+  "keywords": ["jwt", "jsonwebtoken", "token", "decode"],
   "homepage": "https://github.com/auth0/jwt-decode",
   "main": "build/jwt-decode.js",
   "dependencies": {},
   "devDependencies": {},
-  "license": [
-    "MIT"
-  ],
+  "license": ["MIT"],
   "ignore": [
     "*/.*",
     "*.json",
